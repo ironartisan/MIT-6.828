@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Tools
+# Lab 1: Booting a PC
 
 {% include list.liquid %}
