@@ -1,10 +1,10 @@
 ---
-sort: 1
+sort: 0
 ---
 
-# Tools
+# 引言
 
-## 环境
+## 环境概述
 
 * 虚拟机（VMware Workstation 或 VirtualBox）
 * [Ubuntu18.04](https://mirrors.tuna.tsinghua.edu.cn/ubuntu-releases/18.04/ubuntu-18.04.6-desktop-amd64.iso)
