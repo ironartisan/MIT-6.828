@@ -2,6 +2,6 @@
 sort: 1
 ---
 
-# Lab6
+# Lab7
 
 {% include list.liquid %}
